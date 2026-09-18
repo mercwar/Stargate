@@ -80,17 +80,19 @@ Unlike conventional directories, this tactical star map serves as the visual fro
 
 ## 🌠 Publishing Stars
 
-Want to add your own world?
+#### 🌀 Want to add your own world?
 
 1. Click **Publish Star** on the site.  
 2. Fill in the form with:  
-   - Star name  
-   - Coordinates (LAT/LON or system ID)  
-   - Tags (exploration, gateway, etc.)  
+   - Remember to Name your Stargate 
+   - Click to place a star on the map   
+   - Save the information until your ready to archive the Stargate 
 3. Press **Submit**.  
 4. Your star will appear in the constellation grid for others to explore.
 
----
+#
+
+## ⭐ Creating .sg files 
 
 <a href="https://cron.iblogger.org/Stargate">
 <img 
@@ -99,6 +101,81 @@ Want to add your own world?
     style="width:100%; height:auto;"
 />
 </a>
+
+
+# 🌌 Stellar Node Configuration Guide
+
+This document explains how to configure and save each of the three stellar node types into `.sg` constellation files.  
+Supported node types: **Stargate Uplink (`sg`)**, **Quasar (`quasar`)**, and **HTML / External Uplink (`html`)**.
+
+---
+
+## 🚀 Stargate Uplink Node (`sg`)
+
+Use this mode when linking a standard Stargate constellation file routed through the backend PHP indexer.
+
+### Steps
+1. Select **`sg`** from the mode dropdown.
+2. Fill out node details:
+   - **Star Type:** `"Stargate Uplink"`
+   - **Star Name:** e.g. `"Quasar-2"`
+   - **Keycode:** e.g. `"KEY-DEFAULT"`
+3. Enter target path in **URL / Path**:
+   ```
+   AVIS-DL/main/sg/2026/09/18/KEY-DEFAULT/01-Constellation-json.sg
+   ```
+
+💡 **Why it matters:** The backend auto‑prefixes the Stargate base URL to load `.sg` files without absolute domain errors.
+
+---
+
+## 🌠 Quasar Node (`quasar`)
+
+Use this mode for distributed navigation nodes, tutorials, or modules within the Quasar client ecosystem.
+
+### Steps
+1. Select **`quasar`** from the mode dropdown.
+2. Fill out node details:
+   - **Star Type:** `"Quasar"`
+   - **Star Name:** e.g. `"Quasar-1"`
+   - **Particle Size:** e.g. `50`
+   - **Particle Color:** e.g. `#fbff00`
+   - **Keycode:** e.g. `"KEY-DEFAULT"`
+3. Enter target resource string in **URL / Path**:
+   ```
+   AVIS-DL/dl/2026/09/14/9-Tutorial.quasar
+   ```
+
+💡 **Why it matters:** This maps links directly through the Quasar client for proper rendering and state integration.
+
+---
+
+## 🌐 HTML / External Uplink Node (`html`)
+
+Use this mode for external web destinations (e.g., Nexus control panel) or inline markup.
+
+### Steps
+1. Select **`html`** from the mode dropdown.
+2. Fill out node details:
+   - **Star Type:** e.g. `"Nexus uplink"`
+   - **Star Name:** e.g. `"Quasar-3"`
+   - **Particle Size:** e.g. `50`
+   - **Keycode:** e.g. `"KEY-DEFAULT"`
+3. Enter full web address in **URL**:
+   ```
+   [https://cron.iblogger.org/NEXUS/](https://cron.iblogger.org/NEXUS/)
+   ```
+   Or leave `rawHtml` open for direct markup injection.
+
+💡 **Why it matters:** This bypasses internal path translation, allowing direct targeting of web destinations or inline inspection via **View Source (`🖥️`)** and **Open Popup (`🌐`)**.
+
+---
+
+## 📌 Notes
+- Always include **AVIS** and **AIFVS headers** in your `.sg` constellation files.
+- Ensure repository paths follow the `AVIS-DL` structure for consistency.
+- Keycodes should remain standardized unless explicitly overridden.
+```
 
 ## 🔧 Features & Capabilities
 
