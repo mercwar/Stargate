@@ -54,7 +54,7 @@ Unlike conventional directories, this tactical star map serves as the visual fro
 
 ---
 
-<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://cron.iblogger.org%2FStargate%2Findex.php%3Fsg%3DAVIS-DL%252Fsg%252F2026%252F09%252F18%252FKEY-DEFAULT%252F01-Constellation-json.sg">
+<a target="_top" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://cron.iblogger.org%2FStargate%2Findex.php%3Fsg%3DAVIS-DL%252Fsg%252F2026%252F09%252F18%252FKEY-DEFAULT%252F01-Constellation-json.sg">
 <img 
     src="ss2.png" 
     alt="Mercwar Stargate" 
