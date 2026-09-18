@@ -31,8 +31,8 @@ Unlike conventional directories, this tactical star map serves as the visual fro
 />
 </a>
 
-###  *"<i>And now... the OFFICIAL Stargate Readme</i>!"*
-###### *"<i>I am CVBGOD and I have given it to you</i>!"*
+###  "<i>And now... the OFFICIAL Stargate Readme</i>!"
+###### "<i>I am CVBGOD and I have given it to you</i>!"
 
 ## 🖱️ How to Use the Website
 
