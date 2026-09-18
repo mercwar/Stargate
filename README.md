@@ -23,7 +23,7 @@ Unlike conventional directories, this tactical star map serves as the visual fro
 
 ---
 
-<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://cron.iblogger.org/Stargate">
 <img 
     src="image_820c7d6c.jpg" 
     alt="Mercwar Constellation" 
@@ -54,7 +54,7 @@ Unlike conventional directories, this tactical star map serves as the visual fro
 
 ---
 
-<a href="https://cron.iblogger.org/NEXUS">
+<a href="https://cron.iblogger.org/Stargate">
 <img 
     src="ss2.png" 
     alt="Mercwar Quasar" 
@@ -70,7 +70,7 @@ Unlike conventional directories, this tactical star map serves as the visual fro
 
 ---
 
-<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<a href="https://cron.iblogger.org/Stargate">
 <img 
     src="image_8a53416a.jpg" 
     alt="Mercwar Constellation" 
@@ -92,7 +92,7 @@ Want to add your own world?
 
 ---
 
-<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<a href="https://cron.iblogger.org/Stargate">
 <img 
     src="image_e49a9a1.jpg" 
     alt="Mercwar Constellation" 
