@@ -10,8 +10,10 @@
 ---
 
 ## 🌌 Overview
+
 The Stargate is a high-performance AI Uplink application engineered to seamlessly compile and link your local source files into an interactive, server-side HTML environment. Natively rendering within your web browser, Stargate functions as an immersive, highly connected command console tightly coupled with NEXUS, Quasar, and the AVIS-DATALAKE core infrastructure.
 Unlike conventional directories, this tactical star map serves as the visual frontend hub for all source code deployments targetable to the AVIS-DL architecture.
+
 ## ✨ Core Capabilities
 
 * Mercwar AI Viewport Engine: Experience a fully interactive, real-time starfield rendering where hovering instantly probes system assets and clicking establishes live downlinks.
