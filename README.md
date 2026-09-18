@@ -56,7 +56,7 @@ Unlike conventional directories, this tactical star map serves as the visual fro
 
 <a href="https://cron.iblogger.org/NEXUS">
 <img 
-    src="ss.png" 
+    src="ss2.png" 
     alt="Mercwar Quasar" 
     style="width:100%; height:auto;"
 />
