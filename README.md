@@ -1,4 +1,3 @@
-# RRU / AVIS-DL // STARRY CONSTELLATION ROUTER & DYNAMIC ENGINE
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
 <img 
