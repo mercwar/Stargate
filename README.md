@@ -53,8 +53,8 @@ Unlike conventional directories, this tactical star map serves as the visual fro
    - Click a star to open its info panel.
 
 ---
-<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://cron.iblogger.org/Stargate/index.php?sg=https%3A%2F%2Fraw.githubusercontent.com%2Fmercwar%2FAVIS-DL%2Fmain%2Fsg%2F2026%2F09%2F17%2FKEY-54545555%2F01-Constellation-json.sg">
 
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://cron.iblogger.org/Stargate/index.php?sg=https%3A%2F%2Fraw.githubusercontent.com%2Fmercwar%2FAVIS-DL%2Fmain%2Fsg%2F2026%2F09%2F17%2FKEY-54545555%2F01-Constellation-json.sg">
 <img 
     src="ss2.png" 
     alt="Mercwar Quasar" 
