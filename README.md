@@ -20,6 +20,45 @@ Unlike conventional directories, this tactical star map serves as the visual fro
 * Universal Hyperlinking: Architect your custom stargate vector to map and hyperlink directly to any file path within the AVIS-DL repository—sourced dynamically from your personal stash or the public library.
 * File Key Cryptography: Secure your structural builds with an encrypted file key. Your architectural framework remains completely locked and private until you choose to archive the gate, triggering a permanent link back to your terminal profile.
 
+<a target="_top" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://cron.iblogger.org/Stargate/index.php?sg=https%3A%2F%2Fraw.githubusercontent.com%2Fmercwar%2FAVIS-DL%2Fmain%2Fsg%2F2026%2F09%2F18%2FKEY-DEFAULT%2F01-Constellation-json.sg">
+<img 
+    src="ss2.png" 
+    alt="Mercwar Stargate" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
+## 🚀 Modes of Operation
+
+- **Stargate** → Native gateway hosted at iBlogger. Routes via `index.php?sg=...`.  
+- **Quasar** → Remote constellation viewer hosted on GitHub. Routes via `.../Quasar/index.html?quasar=...`.  
+- **Hypertext** → Link to any URL.
+  
+#
+
+- **Dev mode** → Drag and drop your stars onto the map and program them.
+- **View Mode** → Test the sg file so it loads into your browser, Archive it to Active your Stargate.
+- **Free AVIS-DL** → your .sg file will be located in the AVIS-DL.
+  
+*Free Storage* → your .quasar and .sg files will be stored at:
+For Quasar:
+ ```
+  github.com/mercwar/AVIS-DL/main/dl 
+```
+For Stargate:
+ ```
+  github.com/mercwar/AVIS-DL/main/sg
+```
+
+*Free Hosting* → your .quasar and .sg files will be hosted at:
+For Quasar:
+```
+  mercwar.gitihub.io/Quasar/index.php?quasar=
+```
+For Stargate:
+```
+  cron.iblogger.org/Stargate/index.php?sg=
+```
 
 ---
 
@@ -54,21 +93,7 @@ Unlike conventional directories, this tactical star map serves as the visual fro
 
 ---
 
-<a target="_top" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://cron.iblogger.org/Stargate/index.php?sg=https%3A%2F%2Fraw.githubusercontent.com%2Fmercwar%2FAVIS-DL%2Fmain%2Fsg%2F2026%2F09%2F18%2FKEY-DEFAULT%2F01-Constellation-json.sg">
-<img 
-    src="ss2.png" 
-    alt="Mercwar Stargate" 
-    style="width:100%; height:auto;"
-/>
-</a>
 
-## 🚀 Modes of Operation
-
-- **Stargate Mode** → Native gateway hosted at iBlogger. Routes via `index.php?sg=...`.  
-- **Quasar Mode** → Remote constellation viewer hosted on GitHub. Routes via `.../Quasar/index.html?quasar=...`.  
-- **Interactive 3D Viewport** → Real-time star map with `[X,Y,Z]` coordinates, glowing highlights, and camera targeting.
-
----
 
 <a href="https://cron.iblogger.org/Stargate">
 <img 
