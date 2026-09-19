@@ -212,9 +212,9 @@ Use this mode for external web destinations (e.g., Nexus control panel) or inlin
 ---
 
 ### 🌐 Gateway Access
-
-- **Primary Gateway:** [cron.iblogger.org/Stargate](https://cron.iblogger.org/Stargate)  
-- **Constellation Entry:** [CLICK HERE to ENTER](https://mercwar.github.io/Constellation/index.html)  
+- *[Station](https://cron.iblogger.org/Station)*
+- *[Stargate](https://cron.iblogger.org/Stargate)*
+- *[Constellation](https://mercwar.github.io/Constellation/index.html)*
 
 ---
 
