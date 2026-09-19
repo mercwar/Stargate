@@ -122,6 +122,7 @@ Use this mode when linking a standard Stargate constellation file routed through
    - **Keycode:** e.g. `"KEY-DEFAULT"`
 3. Enter target path in **URL / Path**:
 4. Type .sg file must be selected
+
    ```
    AVIS-DL/main/sg/2026/09/18/KEY-DEFAULT/01-Constellation-json.sg
    
@@ -145,6 +146,7 @@ Use this mode for distributed navigation nodes, tutorials, or modules within the
    - **Keycode:** e.g. `"KEY-DEFAULT"`
 3. Enter target resource string in **URL / Path**:
 4. Type .quasar file must be selected
+5. 
    ```
    AVIS-DL/dl/2026/09/14/9-Tutorial.quasar
    ```
@@ -166,9 +168,11 @@ Use this mode for external web destinations (e.g., Nexus control panel) or inlin
    - **Keycode:** e.g. `"KEY-DEFAULT"`
 3. Enter full web address in **URL**:
 4. Type .html file must be selected
+5. 
    ```
    https://cron.iblogger.org/NEXUS/](https://cron.iblogger.org/NEXUS/
    ```
+   
    Or leave `rawHtml` open for direct markup injection.
 
 💡 **Why it matters:** This bypasses internal path translation, allowing direct targeting of web destinations or inline inspection via **View Source (`🖥️`)** and **Open Popup (`🌐`)**.
@@ -179,7 +183,7 @@ Use this mode for external web destinations (e.g., Nexus control panel) or inlin
 - Always include **AVIS** and **AIFVS headers** in your `.sg` constellation files.
 - Ensure repository paths follow the `AVIS-DL` structure for consistency.
 - Keycodes should remain standardized unless explicitly overridden.
-```
+
 
 ## 🔧 Features & Capabilities
 
