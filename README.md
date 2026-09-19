@@ -39,23 +39,29 @@ Unlike conventional directories, this tactical star map serves as the visual fro
 - **Dev mode** → Drag and drop your stars onto the map and program them.
 - **View Mode** → Test the sg file so it loads into your browser, Archive it to Active your Stargate.
 - **Free AVIS-DL** → your .sg file will be located in the AVIS-DL.
+
+#
   
-*Free Storage* → your .quasar and .sg files will be stored at:
-For Quasar:
+✅ *Free Storage* → your .quasar and .sg files will be stored at:
+
+➡️ For Quasar:
  ```
   github.com/mercwar/AVIS-DL/main/dl 
 ```
-For Stargate:
+➡️ For Stargate:
  ```
   github.com/mercwar/AVIS-DL/main/sg
 ```
 
-*Free Hosting* → your .quasar and .sg files will be hosted at:
-For Quasar:
+#
+
+✅ *Free Hosting* → your .quasar and .sg files will be hosted at:
+
+➡️ For Quasar:
 ```
   mercwar.gitihub.io/Quasar/index.php?quasar=
 ```
-For Stargate:
+➡️ For Stargate:
 ```
   cron.iblogger.org/Stargate/index.php?sg=
 ```
