@@ -121,8 +121,10 @@ Use this mode when linking a standard Stargate constellation file routed through
    - **Star Name:** e.g. `"Quasar-2"`
    - **Keycode:** e.g. `"KEY-DEFAULT"`
 3. Enter target path in **URL / Path**:
+4. Type .sg file must be selected
    ```
    AVIS-DL/main/sg/2026/09/18/KEY-DEFAULT/01-Constellation-json.sg
+   
    ```
 
 💡 **Why it matters:** The backend auto‑prefixes the Stargate base URL to load `.sg` files without absolute domain errors.
@@ -142,6 +144,7 @@ Use this mode for distributed navigation nodes, tutorials, or modules within the
    - **Particle Color:** e.g. `#fbff00`
    - **Keycode:** e.g. `"KEY-DEFAULT"`
 3. Enter target resource string in **URL / Path**:
+4. Type .quasar file must be selected
    ```
    AVIS-DL/dl/2026/09/14/9-Tutorial.quasar
    ```
@@ -162,8 +165,9 @@ Use this mode for external web destinations (e.g., Nexus control panel) or inlin
    - **Particle Size:** e.g. `50`
    - **Keycode:** e.g. `"KEY-DEFAULT"`
 3. Enter full web address in **URL**:
+4. Type .html file must be selected
    ```
-   [https://cron.iblogger.org/NEXUS/](https://cron.iblogger.org/NEXUS/)
+   https://cron.iblogger.org/NEXUS/](https://cron.iblogger.org/NEXUS/
    ```
    Or leave `rawHtml` open for direct markup injection.
 
